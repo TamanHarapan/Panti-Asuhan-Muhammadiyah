@@ -14,9 +14,9 @@ const programData = {
     { img: "/images/sedekah.jpeg", title: "Sedekah", date: "Setiap Jumat" },
   ],
   2: [
-    { img: "/images/kegiatan4.jpg", title: "Kegiatan 4", date: "Tanggal Kegiatan 4" },
-    { img: "/images/kegiatan5.jpg", title: "Kegiatan 5", date: "Tanggal Kegiatan 5" },
-    { img: "/images/kegiatan6.jpg", title: "Kegiatan 6", date: "Tanggal Kegiatan 6" },
+    { img: "/images/Foto-Kegiatan-Pembuatan-Website.jpg", title: "Pembuatan Website Panti", date: "14 Juni 2025" },
+    { img: "/images/Foto-Pengesahan-Website.jpg", title: "Pengesahan dan Penyerahan Website Panti", date: "16 Juni 2025" },
+    { img: "/images/Foto-Penyuluhan-Website-Kepada-Pihak-Panti.jpg", title: "Foto Penyuluhan Website Kepada Pihak Panti", date: "16 Juni 2025" },
   ],
   3: [
     { img: "/images/kegiatan7.jpg", title: "Kegiatan 7", date: "Tanggal Kegiatan 7" },
